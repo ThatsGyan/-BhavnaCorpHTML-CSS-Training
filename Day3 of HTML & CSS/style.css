@@ -1,0 +1,21 @@
+
+h1
+{
+    color: cadetblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+*
+{
+    font-size: large;
+    font-family: sans-serif;
+    color: indigo;
+}
+
+#gun
+{
+   width: 250px;
+}
+
+
+
